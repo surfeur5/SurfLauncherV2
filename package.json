@@ -5,9 +5,9 @@
   "description": "Modded Minecraft Launcher",
   "author": "Surfeur5 (https://github.com/surfeur5/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/surfeur5/surflauncher",
+  "homepage": "https://github.com/surfeur5/SurfLauncherV2",
   "bugs": {
-    "url": "https://github.com/surfeur5/surflauncher/issues"
+    "url": "https://github.com/surfeur5/SurfLauncherV2/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surfeur5/surflauncher.git"
+    "url": "https://github.com/surfeur5/SurfLauncherV2/SurfLauncherV2.git"
   }
 }
